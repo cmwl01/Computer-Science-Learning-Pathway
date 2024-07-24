@@ -8,9 +8,17 @@
 宋浩老师的《高等代数》https://www.bilibili.com/video/BV1cy4y1V79E/?spm_id_from=333.999.0.0&vd_source=19a38c7c4da0c64e82b7effd75a62021
 
 宋浩老师的《概率论与数理统计》https://www.bilibili.com/video/BV1ot411y7mU/?spm_id_from=333.999.0.0&vd_source=19a38c7c4da0c64e82b7effd75a62021
-理论知识的方方面面，咱就是说必须扎扎实实的（视频中段子很多，感兴趣或学有余力可继续探索数学之美）
+理论知识的方方面面，咱就是说必须扎扎实实的（视频中段子很多，感兴趣或学有余力可继续探索数学之美）“数无形时少直觉，形少数时难入微;数形结合百般好,隔离分家万事休。”
 # 2.学习一门或多门语言
-这里推荐学习的有C++、Python、汇编语言、Rust、Golang、Java、JavaScript、HTML、CSS等，这里不做推荐，语言学习没有难度
+建议学习的语言包括但不限于C++、Python、汇编语言、Rust、Golang、Java、JavaScript、HTML、CSS等，这里不做推荐，语言学习没有难度，b站随便找一个老师的的课都行，多去coding
+
+这里推荐一些提高代码能力的平台：
+
+https://www.acwing.com
+
+https://leetcode.cn
+
+https://www.nowcoder.com
 # 联系我
 
 cmwl6453@icloud.com
